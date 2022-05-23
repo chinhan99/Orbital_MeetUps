@@ -17,7 +17,8 @@
       integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
       crossorigin="anonymous"
     />
-
+    <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
+    <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 
 
 <style>
@@ -111,14 +112,17 @@ body, html {
   </div>
 </div>
 
-<!-- Container (Booking Section) -->
+
+
+
+
+<!-- Container (Timetable Input Section) -->
 <div class="w3-content w3-container w3-padding-64" id="find_space">
   <h3 class = "w3-center"> Find your time and space!</h3>
   <form action="/action_page.php" target="_blank">
     <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
       
     </div>
-
 
     
     <!-- https://stackoverflow.com/questions/50746868/how-to-add-input-fields-on-button-click -->
@@ -132,11 +136,6 @@ body, html {
     
     <input class = "w3-button w3-black w3-section " type="button" id="btnAdd" onclick="AddSuggestionCart();" value="ADD TIMETABLES" />
 
-    
-   
-
-
-
 
     <button class="w3-button w3-black w3-right w3-section" type="submit_avail">
       <i class="fa fa-pencil"></i> CHECK AVAILABILITIES
@@ -144,6 +143,30 @@ body, html {
   </form>
 
 </div>
+
+<hr>
+
+
+
+
+<!-- Container (Venues Filter Section) -->
+<div>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
 
 <hr>
 <!-- Container (About Section) -->
@@ -265,8 +288,9 @@ body, html {
 </div>
 
 
-
-
+<div>
+  <py-script>print(24545465)</py-script>
+</div>
 
 
 <script type="text/javascript">
