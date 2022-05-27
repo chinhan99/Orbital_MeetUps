@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-
+  
 
 <head>
-
+ 
   <title>W3.CSS Template</title>
   <meta charset="UTF-8">
   <!-- <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css"/> -->
@@ -38,6 +38,10 @@
       line-height: 1.8;
     }
 
+    #outputH1, #outputH2 {
+      text-align: center;
+      justify-content: center;
+    }
     /* Create a Parallax Effectlogo */
     .bgimg-1,
     .bgimg-2,
@@ -60,7 +64,7 @@
       min-height: 400px;
     }
 
-
+    
     /* Third image (Contact) */
     .bgimg-3 {
 
@@ -134,7 +138,7 @@
   <!-- Container (Booking Section) -->
   <div class="w3-content w3-container w3-padding-64" id="find_space">
     <h3 class="w3-center"> Find your time and space!</h3>
-    <form id=tt_link_process action="/action_page.php" target="_blank">
+    <form id = tt_link_process action="/action_page.php" target="_blank">
       <div class="w3-row-padding" style="margin:0 -16px 8px -16px">
 
       </div>
@@ -144,8 +148,7 @@
       <!-- https://stackoverflow.com/questions/50746868/how-to-add-input-fields-on-button-click -->
 
       <div>
-        <input name="DynamicSuggestionCart" type="text" size=121 id="tt_link"
-          placeholder="Enter NUSMods Timetable Link!" />
+        <input name="DynamicSuggestionCart" type="text" size=121 id= "tt_link" placeholder="Enter NUSMods Timetable Link!" />
       </div>
 
 
@@ -163,6 +166,12 @@
 
   </div>
 
+  <hr>
+
+  <div>
+    <h1 id = "outputH1"></h1>
+    <h2 id = "outputH2"></h2>
+  </div>
   <hr>
   <!-- Container (About Section) -->
   <div class="w3-content w3-container w3-padding-64" id="about">
@@ -333,7 +342,7 @@
 
       const { createClient } = supabase
       supabase = createClient(config.SUPABASE_URL, config.SUPABASE_KEY)
-
+      
 
       const form = document.querySelector('#contact-form')
       form.addEventListener('submit', async (event) => {
