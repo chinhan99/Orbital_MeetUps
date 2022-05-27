@@ -17,7 +17,7 @@ function checkAvaAPI() {
     
     const form = document.querySelector('#tt_link_process')
     const tt_inputs = form.querySelectorAll('#tt_link')
-  //console.log(tt_inputs);
+  console.log(tt_inputs);
     let nus_tt_links = []
 
     tt_inputs.forEach(element => {
@@ -26,11 +26,26 @@ function checkAvaAPI() {
         nus_tt_links [name] = value
       }
       nus_tt_links.push(element.value)
-    
+      
     })
     
 
-    //console.log(nus_tt_links);
+
+
+
+    // var nus_tt_links = [];
+
+    // // e.preventDefault();
+    
+    // var inputs = document.querySelectorAll("div.row:not([style='display: none;']) input[type=\"text\"]");
+    // var len = inputs.length;
+    // for (var i = 0; i < len; i++) {
+    // nus_tt_links.push({
+    //   input: i,
+    //   value: inputs[i].value
+    // });
+    // }
+    console.log(nus_tt_links);
 
    
 
@@ -123,12 +138,13 @@ function checkAvaAPI() {
           if (parseInt(value[i][1]) < parseInt(value[i + 1][0]))
           {
             //Append the message if there is a free slot
-            message = message + key + " " + value[i][1] + "-" + value[i + 1][0] + "\n";
+            message = message + key + ": " + value[i][1] + "-" + value[i + 1][0] + "<br />";
           }
         }
         
       }
-    alert(message);
+    document.getElementById("outputH1").innerHTML = "<strong>Available Timeslots:</strong>";
+    document.getElementById("outputH2").innerHTML = message;
     })();
     
   }
