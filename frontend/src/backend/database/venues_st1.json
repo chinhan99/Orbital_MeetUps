@@ -1,0 +1,5752 @@
+{
+    "E-Learn_C": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "W1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 20,
+                    "moduleCode": "NM1101X"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1830",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 49,
+                    "moduleCode": "ECA5313"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1830",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 49,
+                    "moduleCode": "ECA5313"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1830",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 70,
+                    "moduleCode": "ECA5881"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1830",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 70,
+                    "moduleCode": "ECA5881"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "BIZ1-0301": [
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "0900",
+                    "endTime": "1230",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-18"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5013"
+                },
+                {
+                    "classNo": "P1",
+                    "startTime": "1300",
+                    "endTime": "1630",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-18"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5013"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "P2",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5013"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "P2",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5013"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5313A"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5313A"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        }
+    ],
+    "E-Hybrid_C": [
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "P1A",
+                    "startTime": "1300",
+                    "endTime": "1630",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-18"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 20,
+                    "moduleCode": "BMA5013/​BMA5271/​BMA5332"
+                },
+                {
+                    "classNo": "P1A",
+                    "startTime": "0900",
+                    "endTime": "1230",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-18"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 20,
+                    "moduleCode": "BMA5013/​BMA5271/​BMA5332"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "P1A",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 20,
+                    "moduleCode": "BMA5102/​BMA5303/​BMA5528"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "P1A",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 20,
+                    "moduleCode": "BMA5102/​BMA5303/​BMA5528"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "P1A",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 20,
+                    "moduleCode": "BMA5119/​BMA5313A/​BMA5405"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "P1A",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 20,
+                    "moduleCode": "BMA5119/​BMA5313A/​BMA5405"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        }
+    ],
+    "BIZ1-0201": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5102"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5102"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5405"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5405"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1300",
+                    "endTime": "1630",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-18"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5332"
+                },
+                {
+                    "classNo": "P1",
+                    "startTime": "0900",
+                    "endTime": "1230",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-18"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5332"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "BIZ1-0302": [
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5119"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5119"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "0900",
+                    "endTime": "1230",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-18"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5271"
+                },
+                {
+                    "classNo": "P1",
+                    "startTime": "1300",
+                    "endTime": "1630",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-18"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5271"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "BIZ1-0202": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5303"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "P1",
+                    "startTime": "1830",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 66,
+                    "moduleCode": "BMA5303"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1830",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-08"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 41,
+                    "moduleCode": "BMT5203"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0830",
+                    "endTime": "1130",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-11"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 41,
+                    "moduleCode": "BMT5203"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "BIZ1-0204": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0830",
+                    "endTime": "1130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 30,
+                    "moduleCode": "BMS5205"
+                },
+                {
+                    "classNo": "01",
+                    "startTime": "1500",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 30,
+                    "moduleCode": "BMS5118"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0830",
+                    "endTime": "1130",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 30,
+                    "moduleCode": "BMS5205"
+                },
+                {
+                    "classNo": "01",
+                    "startTime": "1500",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 30,
+                    "moduleCode": "BMS5118"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "BIZ1-0203": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1830",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 71,
+                    "moduleCode": "BMK5300D"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1830",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 71,
+                    "moduleCode": "BMK5300D"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1830",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-17"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 71,
+                    "moduleCode": "BMK5300D"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "COM1-0208": [
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1030",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-17"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 25,
+                    "moduleCode": "CS3244"
+                },
+                {
+                    "classNo": "03",
+                    "startTime": "1300",
+                    "endTime": "1430",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-17"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 25,
+                    "moduleCode": "CS3244"
+                },
+                {
+                    "classNo": "02",
+                    "startTime": "1030",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-17"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 25,
+                    "moduleCode": "CS3244"
+                },
+                {
+                    "classNo": "04",
+                    "startTime": "1430",
+                    "endTime": "1600",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-17"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 25,
+                    "moduleCode": "CS3244"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "I3-AUD": [
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 100,
+                    "moduleCode": "CS3244"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 100,
+                    "moduleCode": "CS3244"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied"
+            }
+        }
+    ],
+    "E1-06-07": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1730",
+                    "endTime": "2000",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Packaged Lecture",
+                    "size": 50,
+                    "moduleCode": "EE4302"
+                },
+                {
+                    "classNo": "01",
+                    "startTime": "2000",
+                    "endTime": "2100",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Packaged Tutorial",
+                    "size": 50,
+                    "moduleCode": "EE4302"
+                }
+            ],
+            "availability": {
+                "1730": "occupied",
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1730",
+                    "endTime": "2000",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Packaged Lecture",
+                    "size": 50,
+                    "moduleCode": "EE4302"
+                },
+                {
+                    "classNo": "01",
+                    "startTime": "2000",
+                    "endTime": "2100",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Packaged Tutorial",
+                    "size": 50,
+                    "moduleCode": "EE4302"
+                }
+            ],
+            "availability": {
+                "1730": "occupied",
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied"
+            }
+        },
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-05-28",
+                        "end": "2022-05-28"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202A"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1800",
+                    "endTime": "2100",
+                    "weeks": {
+                        "start": "2022-06-21",
+                        "end": "2022-06-21"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202B"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied"
+            }
+        }
+    ],
+    "E5-03-19": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Packaged Lecture",
+                    "size": 50,
+                    "moduleCode": "EE4505"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-17"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Packaged Tutorial",
+                    "size": 50,
+                    "moduleCode": "EE4505"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied"
+            }
+        }
+    ],
+    "E4A-06-07": [
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Laboratory",
+                    "size": 50,
+                    "moduleCode": "EE1111B"
+                }
+            ],
+            "availability": {
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Laboratory",
+                    "size": 50,
+                    "moduleCode": "EE1111B"
+                }
+            ],
+            "availability": {
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Laboratory",
+                    "size": 50,
+                    "moduleCode": "EE1111B"
+                }
+            ],
+            "availability": {
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-17"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Laboratory",
+                    "size": 50,
+                    "moduleCode": "EE1111B"
+                }
+            ],
+            "availability": {
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied"
+            }
+        }
+    ],
+    "UTSRC-GLR": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0800",
+                    "endTime": "1600",
+                    "weeks": {
+                        "start": "2022-05-17",
+                        "end": "2022-05-24"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "ME4263"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "0800": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0800",
+                    "endTime": "1600",
+                    "weeks": {
+                        "start": "2022-05-16",
+                        "end": "2022-05-23"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "ME4263"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "0800": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0800",
+                    "endTime": "1600",
+                    "weeks": {
+                        "start": "2022-05-18",
+                        "end": "2022-05-25"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "ME4263"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "0800": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0800",
+                    "endTime": "1600",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-05-26"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "ME4263"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "0800": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0800",
+                    "endTime": "1600",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-05-27"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "ME4263"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "0800": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "E3-06-08": [
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-05-28"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "CE5611A"
+                },
+                {
+                    "classNo": "01",
+                    "startTime": "0930",
+                    "endTime": "1330",
+                    "weeks": {
+                        "start": "2022-06-11",
+                        "end": "2022-06-11"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "CE5611A"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1830",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-26",
+                        "end": "2022-05-26"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202B"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 5,
+                    "moduleCode": "EE4305E/​TEE4305"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Tutorial",
+                    "size": 5,
+                    "moduleCode": "EE4305E/​TEE4305"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 5,
+                    "moduleCode": "EE4305E/​TEE4305"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Tutorial",
+                    "size": 5,
+                    "moduleCode": "EE4305E/​TEE4305"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "E4-04-03": [
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-05-13"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202A"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-05-21"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202A/​ESE5202B"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1800",
+                    "endTime": "2100",
+                    "weeks": {
+                        "start": "2022-05-31",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202B"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied"
+            }
+        }
+    ],
+    "E4-04-02": [
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-05-14"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202B"
+                },
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-07-16",
+                        "end": "2022-07-23"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "OT5204B"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-05-19"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202B"
+                },
+                {
+                    "classNo": "01",
+                    "startTime": "1800",
+                    "endTime": "2100",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-05-19"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202B"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "1800",
+                    "endTime": "2100",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-05-17"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202B"
+                },
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-05-17"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "ESE5202B"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-07-15",
+                        "end": "2022-07-15"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "OT5204B"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "E4-04-04": [
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-05-13"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "OT5203B"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "01",
+                    "startTime": "0930",
+                    "endTime": "1230",
+                    "weeks": {
+                        "start": "2022-05-28",
+                        "end": "2022-05-28"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "OT5203B"
+                },
+                {
+                    "classNo": "01",
+                    "startTime": "0900",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-05-21"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "OT5203B"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0930": "occupied",
+                "0900": "occupied"
+            }
+        }
+    ],
+    "S1A-03LAB2": [
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-05-20"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 12,
+                    "moduleCode": "BL5232A"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-05-20"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Laboratory",
+                    "size": 12,
+                    "moduleCode": "BL5232A"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-05-19"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 12,
+                    "moduleCode": "BL5232A"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-05-19"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Laboratory",
+                    "size": 12,
+                    "moduleCode": "BL5232A"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-05-18"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Laboratory",
+                    "size": 12,
+                    "moduleCode": "BL5232A"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-05-18"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 12,
+                    "moduleCode": "BL5232A"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-05-17"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Laboratory",
+                    "size": 12,
+                    "moduleCode": "BL5232A"
+                }
+            ],
+            "availability": {
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-16"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 12,
+                    "moduleCode": "BL5232A"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-16"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Laboratory",
+                    "size": 12,
+                    "moduleCode": "BL5232A"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied"
+            }
+        }
+    ],
+    "S1A-03LAB1": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-05-17"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 12,
+                    "moduleCode": "BL5232A"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied"
+            }
+        }
+    ],
+    "S5-0410": [
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1600",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-17"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Laboratory",
+                    "size": 40,
+                    "moduleCode": "CM3291"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1600",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Laboratory",
+                    "size": 40,
+                    "moduleCode": "CM3291"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied"
+            }
+        }
+    ],
+    "LT20": [
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "CM3291"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied"
+            }
+        }
+    ],
+    "LT33": [
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1900",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 60,
+                    "moduleCode": "QF5201"
+                }
+            ],
+            "availability": {
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-11"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 60,
+                    "moduleCode": "QF5201"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1900",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-30",
+                        "end": "2022-06-13",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 60,
+                    "moduleCode": "QF5201"
+                }
+            ],
+            "availability": {
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        }
+    ],
+    "S17-0406": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-05-26",
+                        "weekInterval": 2
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 50,
+                    "moduleCode": "MA1301X"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "S4A-0308": [
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1400",
+                    "weeks": {
+                        "start": "2022-05-14",
+                        "end": "2022-06-18"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "PR5218"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied"
+            }
+        }
+    ],
+    "LKY_SR3-1": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 90,
+                    "moduleCode": "PP5191"
+                }
+            ],
+            "availability": {
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 90,
+                    "moduleCode": "PP5191"
+                }
+            ],
+            "availability": {
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "2000",
+                    "weeks": {
+                        "start": "2022-05-25",
+                        "end": "2022-05-25"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 90,
+                    "moduleCode": "PP5011/​PP5013"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-06-15",
+                        "weeks": [
+                            1,
+                            2,
+                            5,
+                            6
+                        ]
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 90,
+                    "moduleCode": "PP5533"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied",
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "2000",
+                    "weeks": {
+                        "start": "2022-05-27",
+                        "end": "2022-05-27"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 90,
+                    "moduleCode": "PP5012/​PP5014"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-10",
+                        "weeks": [
+                            1,
+                            2,
+                            5
+                        ]
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 90,
+                    "moduleCode": "PP5533"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied",
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13",
+                        "weeks": [
+                            1,
+                            3,
+                            4,
+                            5,
+                            6
+                        ]
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 90,
+                    "moduleCode": "PP5533"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "LKY_TB10SR": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 60,
+                    "moduleCode": "PP5528"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 60,
+                    "moduleCode": "PP5528"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "E-Hybrid_A": [
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "4",
+                    "startTime": "1500",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-09"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 3,
+                    "moduleCode": "UTC2501"
+                },
+                {
+                    "classNo": "7",
+                    "startTime": "1100",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-09"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 3,
+                    "moduleCode": "UTC2501"
+                },
+                {
+                    "classNo": "8",
+                    "startTime": "1300",
+                    "endTime": "1500",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-09"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 3,
+                    "moduleCode": "UTC2501"
+                },
+                {
+                    "classNo": "9",
+                    "startTime": "1500",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-09"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 3,
+                    "moduleCode": "UTC2501"
+                },
+                {
+                    "classNo": "5",
+                    "startTime": "1700",
+                    "endTime": "1900",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-09"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 3,
+                    "moduleCode": "UTC2501"
+                },
+                {
+                    "classNo": "2",
+                    "startTime": "1100",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-09"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 3,
+                    "moduleCode": "UTC2501"
+                },
+                {
+                    "classNo": "3",
+                    "startTime": "1300",
+                    "endTime": "1500",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-09"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 3,
+                    "moduleCode": "UTC2501"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1100",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-09"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 3,
+                    "moduleCode": "UTC2501"
+                },
+                {
+                    "classNo": "6",
+                    "startTime": "0900",
+                    "endTime": "1100",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-05-09"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 3,
+                    "moduleCode": "UTC2501"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Tutorial",
+                    "size": 250,
+                    "moduleCode": "GEH1025T"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied",
+                "1800": "occupied",
+                "1830": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "RC4-SR1-2": [
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-27",
+                        "end": "2022-06-10"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 1,
+                    "moduleCode": "UTC2725/​UTS2712"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-25",
+                        "end": "2022-06-08"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 1,
+                    "moduleCode": "UTC2725/​UTS2712"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-24",
+                        "end": "2022-06-07"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 1,
+                    "moduleCode": "UTC2725/​UTS2712"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-23",
+                        "end": "2022-06-06"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 1,
+                    "moduleCode": "UTC2725/​UTS2712"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-26",
+                        "end": "2022-06-09"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 1,
+                    "moduleCode": "UTC2725/​UTS2712"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "E-Learn_B": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1530",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-26",
+                        "end": "2022-05-26"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1300",
+                    "endTime": "1500",
+                    "weeks": {
+                        "start": "2022-05-26",
+                        "end": "2022-05-26"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-26",
+                        "end": "2022-05-26"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1300",
+                    "endTime": "1500",
+                    "weeks": {
+                        "start": "2022-05-24",
+                        "end": "2022-05-24"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1530",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-24",
+                        "end": "2022-05-24"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-24",
+                        "end": "2022-05-24"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-05-17",
+                        "end": "2022-05-31"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 100,
+                    "moduleCode": "SPH5414"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-17",
+                        "end": "2022-05-31"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 100,
+                    "moduleCode": "SPH5414"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-27",
+                        "end": "2022-05-27"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1300",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-27",
+                        "end": "2022-05-27"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1300",
+                    "endTime": "1500",
+                    "weeks": {
+                        "start": "2022-05-25",
+                        "end": "2022-05-25"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1530",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-25",
+                        "end": "2022-05-25"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-25",
+                        "end": "2022-05-25"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1300",
+                    "endTime": "1430",
+                    "weeks": {
+                        "start": "2022-05-23",
+                        "end": "2022-05-23"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-23",
+                        "end": "2022-05-23"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1530",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-23",
+                        "end": "2022-05-23"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 50,
+                    "moduleCode": "SPH5403"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-23",
+                        "end": "2022-05-30"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 100,
+                    "moduleCode": "SPH5414"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-05-23",
+                        "end": "2022-05-30"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 100,
+                    "moduleCode": "SPH5414"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "MD1-0801AB": [
+        {
+            "day": "Saturday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-28",
+                        "end": "2022-05-28"
+                    },
+                    "day": "Saturday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "SPH5501"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1230",
+                    "endTime": "1730",
+                    "weeks": {
+                        "start": "2022-05-27",
+                        "end": "2022-05-27"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 47,
+                    "moduleCode": "SPH5423"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1130",
+                    "weeks": {
+                        "start": "2022-05-27",
+                        "end": "2022-05-27"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 47,
+                    "moduleCode": "SPH5423"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1130",
+                    "weeks": {
+                        "start": "2022-05-31",
+                        "end": "2022-05-31"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 47,
+                    "moduleCode": "SPH5423"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1230",
+                    "endTime": "1730",
+                    "weeks": {
+                        "start": "2022-05-31",
+                        "end": "2022-05-31"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 47,
+                    "moduleCode": "SPH5423"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1130",
+                    "weeks": {
+                        "start": "2022-05-30",
+                        "end": "2022-05-30"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 47,
+                    "moduleCode": "SPH5423"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1230",
+                    "endTime": "1730",
+                    "weeks": {
+                        "start": "2022-05-30",
+                        "end": "2022-05-30"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 47,
+                    "moduleCode": "SPH5423"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1130",
+                    "weeks": {
+                        "start": "2022-05-26",
+                        "end": "2022-06-02"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 47,
+                    "moduleCode": "SPH5423"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1230",
+                    "endTime": "1730",
+                    "weeks": {
+                        "start": "2022-05-26",
+                        "end": "2022-06-02"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 47,
+                    "moduleCode": "SPH5423"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1230": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "MD1-08-03E": [
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-05-27",
+                        "end": "2022-05-27"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "SPH5501"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-20",
+                        "end": "2022-05-20"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "SPH5501"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-20",
+                        "end": "2022-05-20"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "SPH5501"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-19",
+                        "end": "2022-05-26"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "SPH5501"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-26",
+                        "end": "2022-05-26"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "SPH5501"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-19",
+                        "end": "2022-05-19"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "SPH5501"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1800",
+                    "weeks": {
+                        "start": "2022-05-18",
+                        "end": "2022-05-25"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "SPH5501"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-18",
+                        "end": "2022-05-18"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "SPH5501"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1000",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-25",
+                        "end": "2022-05-25"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 40,
+                    "moduleCode": "SPH5501"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "1700": "occupied",
+                "1730": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "MD1-0903EF": [
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-06-03",
+                        "end": "2022-06-03"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 30,
+                    "moduleCode": "SPH5206"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-06-03",
+                        "end": "2022-06-03"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 30,
+                    "moduleCode": "SPH5206"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-02"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 30,
+                    "moduleCode": "SPH5206"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-02"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 30,
+                    "moduleCode": "SPH5206"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-30",
+                        "end": "2022-05-30"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 30,
+                    "moduleCode": "SPH5206"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-05-30",
+                        "end": "2022-05-30"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 30,
+                    "moduleCode": "SPH5206"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-05-31",
+                        "end": "2022-05-31"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 30,
+                    "moduleCode": "SPH5206"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-05-31",
+                        "end": "2022-05-31"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 30,
+                    "moduleCode": "SPH5206"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "0830",
+                    "endTime": "1300",
+                    "weeks": {
+                        "start": "2022-06-01",
+                        "end": "2022-06-01"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 30,
+                    "moduleCode": "SPH5206"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1400",
+                    "endTime": "1700",
+                    "weeks": {
+                        "start": "2022-06-01",
+                        "end": "2022-06-01"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 30,
+                    "moduleCode": "SPH5206"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1200": "occupied",
+                "1230": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "1600": "occupied",
+                "1630": "occupied",
+                "0830": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "E3-06-01": [
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Tutorial",
+                    "size": 10,
+                    "moduleCode": "CN3135E/​TCN3135"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 5,
+                    "moduleCode": "CN3135E/​TCN3135"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 5,
+                    "moduleCode": "CN3135E/​TCN3135"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Tutorial",
+                    "size": 10,
+                    "moduleCode": "CN3135E/​TCN3135"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "E1-06-01": [
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-24",
+                        "weekInterval": 2
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 5,
+                    "moduleCode": "CN4240E/​TCN4240"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-24",
+                        "weekInterval": 2
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 5,
+                    "moduleCode": "CN4240E/​TCN4240"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-07-05"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 5,
+                    "moduleCode": "CN4240E/​TCN4240"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-07-05"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Tutorial",
+                    "size": 5,
+                    "moduleCode": "CN4240E/​TCN4240"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "E-Learn_A": [
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Tutorial",
+                    "size": 250,
+                    "moduleCode": "GEH1025T/​GES1002T/​GET1016T/​GEC1034T/​GESS1000T"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 250,
+                    "moduleCode": "GEH1025T/​GES1002T/​GET1016T/​GEC1034T/​GESS1000T"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 250,
+                    "moduleCode": "GEH1025T/​GES1002T/​GET1016T/​GEC1034T/​GESS1000T"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-16",
+                        "end": "2022-06-27",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 270,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Tutorial",
+                    "size": 78,
+                    "moduleCode": "TIC2101/​TMA2102"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1930",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 78,
+                    "moduleCode": "TIC2101/​TMA2102"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 230,
+                    "moduleCode": "GES1002T/​GESS1000T"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 230,
+                    "moduleCode": "GES1002T/​GESS1000T"
+                },
+                {
+                    "classNo": "2",
+                    "startTime": "1800",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-30",
+                        "weekInterval": 4
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "4",
+                    "startTime": "1800",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-30",
+                        "weekInterval": 4
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "6",
+                    "startTime": "1800",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-30",
+                        "weekInterval": 4
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "7",
+                    "startTime": "1800",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-30",
+                        "weekInterval": 4
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "9",
+                    "startTime": "1800",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-30",
+                        "weekInterval": 4
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07",
+                        "weeks": [
+                            1,
+                            2,
+                            3,
+                            5,
+                            6,
+                            7,
+                            9
+                        ]
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 270,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "5",
+                    "startTime": "1800",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-30",
+                        "weekInterval": 4
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-30",
+                        "weekInterval": 4
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "8",
+                    "startTime": "1800",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-30",
+                        "weekInterval": 4
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "3",
+                    "startTime": "1800",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-06-02",
+                        "end": "2022-06-30",
+                        "weekInterval": 4
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "3",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 100,
+                    "moduleCode": "TMA2102"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1930",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 100,
+                    "moduleCode": "TMA2102"
+                },
+                {
+                    "classNo": "2",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 100,
+                    "moduleCode": "TMA2102"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 100,
+                    "moduleCode": "TMA2102"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "10",
+                    "startTime": "1800",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-06-03",
+                        "end": "2022-07-01",
+                        "weekInterval": 4
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "TTG2415"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1930",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-07-08"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 78,
+                    "moduleCode": "TIC2101"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-07-08"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 78,
+                    "moduleCode": "TIC2101"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "E5-0320-21": [
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 49,
+                    "moduleCode": "TCN2411"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Tutorial",
+                    "size": 49,
+                    "moduleCode": "TCN2411"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 49,
+                    "moduleCode": "TCN2411"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Tutorial",
+                    "size": 49,
+                    "moduleCode": "TCN2411"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "LT1": [
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Tutorial",
+                    "size": 60,
+                    "moduleCode": "TCE2407"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-20",
+                        "weekInterval": 2
+                    },
+                    "day": "Monday",
+                    "lessonType": "Lecture",
+                    "size": 60,
+                    "moduleCode": "TCE2407"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "2030",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 60,
+                    "moduleCode": "TCE2407"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "2030",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Tutorial",
+                    "size": 60,
+                    "moduleCode": "TCE2407"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "E3-06-13": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "L3",
+                    "startTime": "1800",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 11,
+                    "moduleCode": "TCN4124"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "E3-06-03": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "L1",
+                    "startTime": "1800",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 11,
+                    "moduleCode": "TCN4124"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "E3-06-11": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "L2",
+                    "startTime": "1800",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 11,
+                    "moduleCode": "TCN4124"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "E3-06-02": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "L4",
+                    "startTime": "1800",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-07-07"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Seminar-Style Module Class",
+                    "size": 11,
+                    "moduleCode": "TCN4124"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "LT15": [
+        {
+            "day": "Wednesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Tutorial",
+                    "size": 26,
+                    "moduleCode": "TBA2103"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1930",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-11",
+                        "end": "2022-07-06"
+                    },
+                    "day": "Wednesday",
+                    "lessonType": "Lecture",
+                    "size": 78,
+                    "moduleCode": "TBA2103"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1930",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-23",
+                        "weekInterval": 2
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Lecture",
+                    "size": 78,
+                    "moduleCode": "TBA2103/​TBA2101"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-23",
+                        "weekInterval": 2
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 26,
+                    "moduleCode": "TBA2103/​TBA2101"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1930",
+                    "endTime": "2130",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-07-05"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 80,
+                    "moduleCode": "TBA2101"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-07-05"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Tutorial",
+                    "size": 33,
+                    "moduleCode": "TBA2101"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied"
+            }
+        }
+    ],
+    "LT19": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "2",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-19",
+                        "end": "2022-06-30",
+                        "weekInterval": 2
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 32,
+                    "moduleCode": "TBA2101"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "2",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-07-05"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Tutorial",
+                    "size": 32,
+                    "moduleCode": "TBA2101"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied"
+            }
+        }
+    ],
+    "COM1-0204": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "3",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-07-05"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Tutorial",
+                    "size": 25,
+                    "moduleCode": "TBA2101"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "3",
+                    "startTime": "1830",
+                    "endTime": "1930",
+                    "weeks": {
+                        "start": "2022-05-19",
+                        "end": "2022-06-30",
+                        "weekInterval": 2
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Tutorial",
+                    "size": 25,
+                    "moduleCode": "TBA2101"
+                }
+            ],
+            "availability": {
+                "1830": "occupied",
+                "1900": "occupied"
+            }
+        }
+    ],
+    "LT4": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "1900",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-07-05"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Lecture",
+                    "size": 49,
+                    "moduleCode": "GEX1005T"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1900",
+                    "endTime": "2100",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-07-05"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Tutorial",
+                    "size": 49,
+                    "moduleCode": "GEX1005T"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "1",
+                    "startTime": "1900",
+                    "endTime": "2100",
+                    "weeks": {
+                        "start": "2022-05-20",
+                        "end": "2022-07-01",
+                        "weekInterval": 2
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 49,
+                    "moduleCode": "GEX1005T"
+                },
+                {
+                    "classNo": "1",
+                    "startTime": "1800",
+                    "endTime": "1900",
+                    "weeks": {
+                        "start": "2022-05-20",
+                        "end": "2022-07-01",
+                        "weekInterval": 2
+                    },
+                    "day": "Friday",
+                    "lessonType": "Lecture",
+                    "size": 49,
+                    "moduleCode": "GEX1005T"
+                }
+            ],
+            "availability": {
+                "1800": "occupied",
+                "1830": "occupied",
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied"
+            }
+        }
+    ],
+    "CELC-SR2A": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "A03",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-10",
+                        "end": "2022-06-14"
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 18,
+                    "moduleCode": "ES1103"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "A01",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 18,
+                    "moduleCode": "ES1103"
+                },
+                {
+                    "classNo": "A02",
+                    "startTime": "1300",
+                    "endTime": "1600",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 18,
+                    "moduleCode": "ES1103"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "A01",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 18,
+                    "moduleCode": "ES1103"
+                },
+                {
+                    "classNo": "A02",
+                    "startTime": "1300",
+                    "endTime": "1600",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 18,
+                    "moduleCode": "ES1103"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "1300": "occupied",
+                "1330": "occupied",
+                "1400": "occupied",
+                "1430": "occupied",
+                "1500": "occupied",
+                "1530": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "A03",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-13",
+                        "end": "2022-06-17"
+                    },
+                    "day": "Friday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 18,
+                    "moduleCode": "ES1103"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "CELC-03-06": [
+        {
+            "day": "Thursday",
+            "classes": [
+                {
+                    "classNo": "A04",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-12",
+                        "end": "2022-06-16"
+                    },
+                    "day": "Thursday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 18,
+                    "moduleCode": "ES1103"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        },
+        {
+            "day": "Monday",
+            "classes": [
+                {
+                    "classNo": "A04",
+                    "startTime": "0900",
+                    "endTime": "1200",
+                    "weeks": {
+                        "start": "2022-05-09",
+                        "end": "2022-06-13"
+                    },
+                    "day": "Monday",
+                    "lessonType": "Sectional Teaching",
+                    "size": 18,
+                    "moduleCode": "ES1103"
+                }
+            ],
+            "availability": {
+                "1000": "occupied",
+                "1030": "occupied",
+                "1100": "occupied",
+                "1130": "occupied",
+                "0900": "occupied",
+                "0930": "occupied"
+            }
+        }
+    ],
+    "S14-0620": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "R01",
+                    "startTime": "1900",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-17",
+                        "end": "2022-06-21",
+                        "weeks": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            6
+                        ]
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "GEA1000"
+                }
+            ],
+            "availability": {
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "R05",
+                    "startTime": "1900",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-20",
+                        "end": "2022-06-24",
+                        "weeks": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            6
+                        ]
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "GEA1000"
+                }
+            ],
+            "availability": {
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        }
+    ],
+    "S14-0619": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "R02",
+                    "startTime": "1900",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-17",
+                        "end": "2022-06-21",
+                        "weeks": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            6
+                        ]
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "GEA1000"
+                }
+            ],
+            "availability": {
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "R06",
+                    "startTime": "1900",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-20",
+                        "end": "2022-06-24",
+                        "weeks": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            6
+                        ]
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "GEA1000"
+                }
+            ],
+            "availability": {
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        }
+    ],
+    "S1A-0217": [
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "R08",
+                    "startTime": "1900",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-20",
+                        "end": "2022-06-24",
+                        "weeks": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            6
+                        ]
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "GEA1000"
+                }
+            ],
+            "availability": {
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "R04",
+                    "startTime": "1900",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-17",
+                        "end": "2022-06-21",
+                        "weeks": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            6
+                        ]
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "GEA1000"
+                }
+            ],
+            "availability": {
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        }
+    ],
+    "S16-0307": [
+        {
+            "day": "Tuesday",
+            "classes": [
+                {
+                    "classNo": "R03",
+                    "startTime": "1900",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-17",
+                        "end": "2022-06-21",
+                        "weeks": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            6
+                        ]
+                    },
+                    "day": "Tuesday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "GEA1000"
+                }
+            ],
+            "availability": {
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        },
+        {
+            "day": "Friday",
+            "classes": [
+                {
+                    "classNo": "R07",
+                    "startTime": "1900",
+                    "endTime": "2200",
+                    "weeks": {
+                        "start": "2022-05-20",
+                        "end": "2022-06-24",
+                        "weeks": [
+                            1,
+                            2,
+                            3,
+                            4,
+                            6
+                        ]
+                    },
+                    "day": "Friday",
+                    "lessonType": "Tutorial",
+                    "size": 30,
+                    "moduleCode": "GEA1000"
+                }
+            ],
+            "availability": {
+                "1900": "occupied",
+                "1930": "occupied",
+                "2000": "occupied",
+                "2030": "occupied",
+                "2100": "occupied",
+                "2130": "occupied"
+            }
+        }
+    ]
+}
